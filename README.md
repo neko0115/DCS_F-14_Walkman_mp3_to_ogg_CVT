@@ -1,4 +1,4 @@
-# Song1~Song10OGG編排器使用手冊(中英雙版本)
+# Song1~Song10OGG編排器使用手冊
 
 >注意:本工具需要FFmpeg可用。建議先完成FFmpeg8.0.1安裝與PATH設定，並在命令列確認ffmpeg -version可正常輸出。
 
