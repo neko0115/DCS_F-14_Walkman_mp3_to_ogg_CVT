@@ -1,0 +1,2 @@
+# DCS_F-14_Walkman_mp3_to_ogg_CVT
+可以將F-14內的walkman需要的檔案Song1-Song10從mp3一次轉檔好，需要搭配ffmpeg
